@@ -7,8 +7,8 @@ public class SwapTwoNumbersWithoutExtra {
 		int b = 12;  
 		
 		a = a + b;//22 
-		b = b - a;//10 
-		a = b + a;//  
+		b = a - b;//12 
+		a = a - b;  
 		
 		System.out.println("A: " + a + " B: "+ b);
 
