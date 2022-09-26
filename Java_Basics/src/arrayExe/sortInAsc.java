@@ -1,4 +1,4 @@
-package arrayExe;
+ package arrayExe;
 
 public class sortInAsc {
 
